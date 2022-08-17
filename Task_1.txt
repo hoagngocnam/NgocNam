@@ -1,8 +1,12 @@
 Task_1.txt
 Task_2.txt
+<<<<<<< HEAD
 Task_4.txt
 <<<<<<< HEAD
 Task_3.txt
 =======
 Task_5.txt
 >>>>>>> Task_001
+=======
+Task_3.txt
+>>>>>>> c0a2a3863b2fc5260f96af5879e4793215243a0f
