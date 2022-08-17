@@ -1,3 +1,4 @@
 Task_1.txt
 Task_2.txt
 Task_4.txt
+Task_3.txt
