@@ -1,4 +1,8 @@
 Task_1.txt
 Task_2.txt
 Task_4.txt
+<<<<<<< HEAD
 Task_3.txt
+=======
+Task_5.txt
+>>>>>>> Task_001
